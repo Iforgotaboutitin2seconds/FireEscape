@@ -35,6 +35,7 @@
   },
   "name":"FireEscape",
   "resources":[
+    {"id":{"name":"obj_FireSpreadManager","path":"objects/obj_FireSpreadManager/obj_FireSpreadManager.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
