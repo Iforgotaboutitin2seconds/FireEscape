@@ -1,1 +1,0 @@
-//if place_empty()

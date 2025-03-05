@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet1",
+  "%Name":"TileSet_White",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet1",
+  "name":"TileSet_White",
   "out_columns":8,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"FireEscape_FlowerTile",
-    "path":"sprites/FireEscape_FlowerTile/FireEscape_FlowerTile.yy",
+    "name":"FireEscape_WhiteWallpaper",
+    "path":"sprites/FireEscape_WhiteWallpaper/FireEscape_WhiteWallpaper.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
