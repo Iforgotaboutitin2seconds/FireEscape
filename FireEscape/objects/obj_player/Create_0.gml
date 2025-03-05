@@ -9,4 +9,5 @@ last_direction = 1;
 
 
 
-map = layer_tilemap_get_id(Tiles_1)
+layid = layer_get_id("Tiles_1")
+mapid = layer_tilemap_get_id(layid)
