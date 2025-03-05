@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"_363092__thewoodlandnomad__fire_crackle_and_flames_002",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":21.032925,
+  "name":"_363092__thewoodlandnomad__fire_crackle_and_flames_002",
+  "parent":{
+    "name":"FireSFX",
+    "path":"folders/Sounds/FireSFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_363092__thewoodlandnomad__fire_crackle_and_flames_002.wav",
+  "type":0,
+  "volume":1.0,
+}
