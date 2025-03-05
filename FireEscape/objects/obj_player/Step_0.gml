@@ -6,5 +6,5 @@ var down = keyboard_check(ord("S"));
 var xinput = right - left;
 var yinput = down - up;
 
-//move_and_collide(xinput * mySpeed, yinput * mySpeed, obj_wall)
+move_and_collide(xinput * mySpeed, yinput * mySpeed, tilemap)
 
