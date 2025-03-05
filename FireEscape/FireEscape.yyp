@@ -41,7 +41,7 @@
     {"id":{"name":"obj_FireSpreadManager","path":"objects/obj_FireSpreadManager/obj_FireSpreadManager.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"room_Main","path":"rooms/room_Main/room_Main.yy",},},
     {"id":{"name":"_363092__thewoodlandnomad__fire_crackle_and_flames_002","path":"sounds/_363092__thewoodlandnomad__fire_crackle_and_flames_002/_363092__thewoodlandnomad__fire_crackle_and_flames_002.yy",},},
     {"id":{"name":"_476846__manboo__firetruck_engine_and_siren","path":"sounds/_476846__manboo__firetruck_engine_and_siren/_476846__manboo__firetruck_engine_and_siren.yy",},},
     {"id":{"name":"FireEscape_FlowerTile","path":"sprites/FireEscape_FlowerTile/FireEscape_FlowerTile.yy",},},
@@ -58,7 +58,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"room_Main","path":"rooms/room_Main/room_Main.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "templateType":"game",
