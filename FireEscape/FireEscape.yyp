@@ -41,6 +41,7 @@
     {"id":{"name":"obj_Fire","path":"objects/obj_Fire/obj_Fire.yy",},},
     {"id":{"name":"obj_FireSpreadManager","path":"objects/obj_FireSpreadManager/obj_FireSpreadManager.yy",},},
     {"id":{"name":"obj_Food","path":"objects/obj_Food/obj_Food.yy",},},
+    {"id":{"name":"obj_PickupParent","path":"objects/obj_PickupParent/obj_PickupParent.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"room_Main","path":"rooms/room_Main/room_Main.yy",},},
