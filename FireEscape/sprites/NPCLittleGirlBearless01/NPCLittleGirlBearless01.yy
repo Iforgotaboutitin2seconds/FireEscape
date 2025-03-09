@@ -2,10 +2,10 @@
   "$GMSprite":"",
   "%Name":"NPCLittleGirlBearless01",
   "bboxMode":0,
-  "bbox_bottom":33,
-  "bbox_left":6,
-  "bbox_right":34,
-  "bbox_top":13,
+  "bbox_bottom":20,
+  "bbox_left":0,
+  "bbox_right":9,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,10 +13,11 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"482e11b3-b65f-4b6b-a4b6-88aa75342137","name":"482e11b3-b65f-4b6b-a4b6-88aa75342137","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"43887b01-6287-459f-a16f-3991e6f9098b","name":"43887b01-6287-459f-a16f-3991e6f9098b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":44,
+  "height":21,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"152fc3c6-a567-4a74-bfcf-c38a71388564","blendMode":0,"displayName":"default","isLocked":false,"name":"152fc3c6-a567-4a74-bfcf-c38a71388564","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -49,7 +50,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":2.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -71,6 +72,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"482e11b3-b65f-4b6b-a4b6-88aa75342137","path":"sprites/NPCLittleGirlBearless01/NPCLittleGirlBearless01.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c753d269-d3f5-4517-8379-3559a000ee9f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"43887b01-6287-459f-a16f-3991e6f9098b","path":"sprites/NPCLittleGirlBearless01/NPCLittleGirlBearless01.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3fca5b72-62fd-4e32-aba3-b7805cf38ac6","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":40,
+  "width":10,
 }

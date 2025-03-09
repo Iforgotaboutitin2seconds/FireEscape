@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Suitcase",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_littlegirl",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Suitcase",
+  "name":"obj_littlegirl",
   "overriddenProperties":[],
   "parent":{
-    "name":"Items",
-    "path":"folders/Objects/Items.yy",
+    "name":"NPCs",
+    "path":"folders/Objects/NPCs.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireEscape_Suicase",
-    "path":"sprites/FireEscape_Suicase/FireEscape_Suicase.yy",
+    "name":"NPCLittleGirlBearless01",
+    "path":"sprites/NPCLittleGirlBearless01/NPCLittleGirlBearless01.yy",
   },
   "spriteMaskId":null,
   "visible":true,
