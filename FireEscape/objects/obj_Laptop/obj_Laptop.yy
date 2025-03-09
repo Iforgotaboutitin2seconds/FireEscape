@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Food",
+  "%Name":"obj_Laptop",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Food",
+  "name":"obj_Laptop",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireEscape_Food",
-    "path":"sprites/FireEscape_Food/FireEscape_Food.yy",
+    "name":"FireEscape_Laptop",
+    "path":"sprites/FireEscape_Laptop/FireEscape_Laptop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

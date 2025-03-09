@@ -4,3 +4,8 @@ layid = layer_get_id("Tiles_1")
 mapid = layer_tilemap_get_id(layid)
 
 global.playerCarrying = false;
+global.foodCarrying = false;
+global.guitarCarrying = false;
+global.jewelBoxCarrying = false;
+global.laptopCarrying = false;
+global.suitcaseCarrying = false;

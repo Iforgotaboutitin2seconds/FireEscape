@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_FireSpreadManager",
+  "%Name":"obj_JewelBox",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_FireSpreadManager",
+  "name":"obj_JewelBox",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"FireEscape_JewelBox",
+    "path":"sprites/FireEscape_JewelBox/FireEscape_JewelBox.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
