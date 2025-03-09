@@ -1,5 +1,5 @@
 if (global.playerCarrying == false && global.playerCarrying == false) {
-	with (obj_player) {
+	with (obj_Player) {
 		// drop move speed
 	}
 	global.playerCarrying = true;
