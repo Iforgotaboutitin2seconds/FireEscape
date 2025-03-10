@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gal",
+  "%Name":"obj_Gal",
   "eventList":[],
   "managed":true,
-  "name":"obj_gal",
+  "name":"obj_Gal",
   "overriddenProperties":[],
   "parent":{
     "name":"NPCs",

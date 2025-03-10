@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_guy",
+  "%Name":"obj_Guy",
   "eventList":[],
   "managed":true,
-  "name":"obj_guy",
+  "name":"obj_Guy",
   "overriddenProperties":[],
   "parent":{
     "name":"NPCs",
