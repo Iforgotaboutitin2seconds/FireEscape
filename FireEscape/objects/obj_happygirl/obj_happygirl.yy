@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_littlegirlsnear",
+  "%Name":"obj_happygirl",
   "eventList":[],
   "managed":true,
-  "name":"obj_littlegirlsnear",
+  "name":"obj_happygirl",
   "overriddenProperties":[],
   "parent":{
     "name":"NPCs",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"TeddyBear01",
-    "path":"sprites/TeddyBear01/TeddyBear01.yy",
+    "name":"NPCLittleGirlBear01",
+    "path":"sprites/NPCLittleGirlBear01/NPCLittleGirlBear01.yy",
   },
   "spriteMaskId":null,
   "visible":true,

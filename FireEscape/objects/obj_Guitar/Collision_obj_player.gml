@@ -1,8 +1,8 @@
-if (global.playerCarrying == false && global.playerCarrying == false) {
-	with (obj_Player) {
-		// drop move speed
-	}
-	global.playerCarrying = true;
-	global.guitarCarrying = true;
-	instance_destroy(self);
-}
+//if (!global.playerCarrying and !global.guitarCarrying) {
+//	with (obj_Player) {
+//		obj_Player.MoveSpeed -= 2;
+//	}
+//	global.playerCarrying = true;
+//	global.guitarCarrying = true;
+//	instance_destroy(self);
+//}

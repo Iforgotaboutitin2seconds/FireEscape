@@ -1,0 +1,8 @@
+if (global.playerCarrying == noone) {
+    global.playerCarrying = obj_Suitcase;
+    MoveSpeed -= 2;
+    with (other) {
+        x = -1000;
+        y = -1000;
+    }
+}

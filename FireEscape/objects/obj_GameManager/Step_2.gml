@@ -1,3 +1,3 @@
-if (timer <= 0 && room != room_PlaceHolderEnd) {
-	room_goto(room_PlaceHolderEnd);
+if (timer <= 0 && room != room_ending) {
+	room_goto(room_ending);
 }
