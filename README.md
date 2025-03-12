@@ -1,6 +1,7 @@
 # Fire Escape
 
-**Created by:** Fund Game Design Concepts - 2025Sp GDD 2150 001 class in UCCS
+**Created by:** Fund Game Design Concepts - 2025Sp GDD 2150 001 class in UCCS.
+
 **Start Date:** 3/12/2025
 
 ## Credits
