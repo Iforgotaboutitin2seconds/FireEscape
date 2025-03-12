@@ -176,9 +176,9 @@ This workflow minimizes merge conflicts because:
 * These standards might evolve—check back for updates!
 
 
-## Start Date
+## Timeline
 
-*   3/12/2025
+*   3/12/2025 - Start the porject.
 
 ## Credits
 
