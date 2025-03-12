@@ -140,6 +140,30 @@ These tips will help keep your code efficient and organized.
 * Define constants for repeated or meaningful values.
 * **Example:** `const MAX_HEALTH = 100;`
 
+## Minimizing Merge Conflicts (GML Specific)
+
+Due to the nature of GameMaker Language and its project files, merge conflicts can be particularly challenging. To minimize these conflicts, we recommend the following workflow:
+
+1.  **Local Development:**
+    * Each developer should maintain their own separate, local GameMaker project file for active development.
+    * This file is where all coding and asset creation occurs.
+2.  **GitHub Repository:**
+    * A single, shared GameMaker project file should reside in the GitHub repository. This is the "main" project.
+3.  **Workflow:**
+    * **Pull First:** Before making any changes, always `git pull` the latest version of the repository to your local machine.
+    * **Local Changes:** Make your changes in your local GameMaker project.
+    * **Create Local Package:** Once your changes are complete and tested, create a local package (.yyz) of your project. This will export your project into a single file.
+    * **Import into GitHub File:** Open the "main" GameMaker project file from the GitHub repository. Import the local package into this file. This will merge your changes into the shared project.
+    * **Commit and Push:** Commit and push the updated "main" GameMaker project file to the GitHub repository.
+    * **Descriptive Commits:** when committing, make sure that the commit messages are very descriptive, so that if a problem occurs, it is easy to find.
+
+This workflow minimizes merge conflicts because:
+
+* **Isolated Development:** Developers work in their own environments, reducing the chance of simultaneous edits to the same files.
+* **Package Merging:** Importing a package into the main project handles most merging automatically, reducing manual conflict resolution.
+* **Single Point of Integration:** the github file becomes the single point of integration, making it easier to track changes.
+
+
 ### Version Control
 
 * Write clear, descriptive commit messages.
