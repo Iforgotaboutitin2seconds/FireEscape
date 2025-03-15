@@ -186,7 +186,7 @@ This workflow minimizes merge conflicts because:
 -
 
 
-**Programmer Lead - Kenyou Teoh & Brian**
+**Programmer Lead - Kenyou Teoh & Brian McLatchie**
 -
 -
 -
